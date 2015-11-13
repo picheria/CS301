@@ -13,9 +13,6 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
     </activity>
-    //ggg
-    //Glenn was here
-    //Sal was here
     ...
 </manifest>
 
